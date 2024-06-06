@@ -202,7 +202,7 @@ header {
 /*     margin-top: 15rem; */
 }
 
-@media (min-width: 750px) {
+/* @media (min-width: 750px) {
     .intro {
         display: grid;
         width: min-content;
@@ -232,7 +232,7 @@ header {
         width: min-content;
     }
     
-}
+} */
 
 .space-exploration {
     position: absolute;
