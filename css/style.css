@@ -196,11 +196,10 @@ header {
 
 /*  Intro section  */
 
-.intro {
+/* .intro {
     position: relative;
     margin-bottom: 0;
 /*     margin-top: 15rem; */
-}
 
 /* @media (min-width: 750px) {
     .intro {
@@ -234,7 +233,7 @@ header {
     
 } */
 
-.space-exploration {
+/* .space-exploration {
     position: absolute;
     top: 0;
     z-index: -1;
@@ -243,27 +242,27 @@ header {
 .space-exploration-desktop {
     display: none;
 }
-
-@media(min-width: 750px) {
+ */
+/* @media(min-width: 750px) {
     .space-exploration-desktop {
         display: block;
         position: absolute;
         width: 65%;
         align-self: center;
         /* margin-left: auto; */
-        padding-left: 22%;
+/*         padding-left: 22%;
         top: 4rem;
         right: auto;
         left: auto;
         z-index: -1;
         max-height: 650px;
         object-fit: contain;
-    }
+    } */
     
-    .space-exploration {
+/*     .space-exploration {
         display: none;
     }
-}
+} */
 
 .landing {
     background-image: url('../patterns/');
